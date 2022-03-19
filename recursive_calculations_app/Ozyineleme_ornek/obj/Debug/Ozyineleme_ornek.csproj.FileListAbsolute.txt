@@ -1,0 +1,21 @@
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\bin\Debug\Ozyineleme_ornek.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\bin\Debug\Ozyineleme_ornek.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\bin\Debug\Ozyineleme_ornek.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Ornekler\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.pdb
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\bin\Debug\Ozyineleme_ornek.exe.config
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\bin\Debug\Ozyineleme_ornek.exe
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\bin\Debug\Ozyineleme_ornek.pdb
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csproj.AssemblyReference.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csproj.SuggestedBindingRedirects.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.Form1.resources
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.Properties.Resources.resources
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csproj.GenerateResource.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.csproj.CoreCompileInputs.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.exe
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Ozyineleme_ornek\Ozyineleme_ornek\obj\Debug\Ozyineleme_ornek.pdb
